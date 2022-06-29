@@ -1,5 +1,9 @@
 # Библиотеки и фреймворки
 
+## Vue
+
+https://www.netburner.com/learn/enjoying-the-vue-frontend-design-for-embedded-systems/
+
 ## Flutter
 
 Это не js и html, но при сборке он конвертируется в них, чтобы исполняться в браузере. То есть на выходе при развертываниии
