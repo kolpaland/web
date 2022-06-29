@@ -20,5 +20,5 @@ ESLint анализирует код, находит ошибки.
 
 Есть множество онлайн редакторов, которые позволяют увидеть результат работы быстро,
 например:
- * Repl.it https://replit.com/~
+ * Replit https://replit.com/~
  * CodePen https://codepen.io/
