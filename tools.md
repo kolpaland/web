@@ -8,3 +8,10 @@ https://firefox-source-docs.mozilla.org/devtools-user/
 
 ## Visual Studio Code
 
+Для VSCode будет полезным установить code-snippets для JS, css, html.
+
+Обязательно добавить Live Server для удобства запуска странички.
+
+Debugger for Firefox, чтобы отлаживаться прямо из VSCode.
+
+ESLint анализирует код, находит ошибки.
