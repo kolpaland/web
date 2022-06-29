@@ -12,14 +12,15 @@ ESLint анализирует код, находит ошибки.
 
 ## Firefox DevTools 
 
-https://firefox-source-docs.mozilla.org/devtools-user/
-
-Встроенный в  браузер инструмент для отладки.
+Встроенный в  браузер инструмент для отладки - [Firefox DevTools](
+https://firefox-source-docs.mozilla.org/devtools-user/).
 
 ## Онлайн редакторы
 
 Есть множество онлайн редакторов, которые позволяют увидеть результат работы быстро,
 например:
- * Replit https://replit.com/~
- * CodePen https://codepen.io/
+ * [Replit](https://replit.com/~)
+ * [CodePen](https://codepen.io/)
 
+## Макет веб-приложения
+[Figma](https://www.figma.com/) - удобный инструмент для создания макета страницы, где можно тут же посмотреть css-код элемента и использовать у себя в коде.
