@@ -5,3 +5,6 @@
 https://firefox-source-docs.mozilla.org/devtools-user/
 
 Встроенный в  браузер инструмент для отладки.
+
+## Visual Studio Code
+
