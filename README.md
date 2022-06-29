@@ -26,9 +26,28 @@ JSON - отличный кандидат на эту роль.
 Самый дешевый и простой подход - использование чистых html, css и javascript. 
 
 В этой статье подробно об HTML и CSS https://www.netburner.com/learn/web-development-for-embedded-engineers-html-and-css/
+
 Возьмем ее за референс:
 
-1.
+1. Изображения: 
+* https://undraw.co/illustrations - выбор небольшой, больше похоже на значки, но можно задать любой цвет;
+* https://www.freeimages.com/ - огромный выбор изображений по различным категориям;
+* https://unsplash.com/ - также огромный выбор различных картинок.
+* https://drawkit.com/free-icons
+2. Инструменты сжатия изображений:
+* https://tinypng.com/
+* https://squoosh.app/ 
+
+Нужно поискать простой способ, утилиту через консоль + использование формата WebP.
+
+3. HTML-валидатор
+
+? Возможно можно добавить в VSCode
+
+4. CSS Flexbox - [Туториал](https://torquemag.io/2020/02/flexbox-tutorial/?utm_medium=paidsocial&utm_source=facebook&utm_campaign=Torque_Interest_Clicks_2020_TQ+Audience+2&utm_content=Torque_Interest_Clicks_2020_TQ+Audience+2_CSS+Flexbox&hsa_acc=1377067892512929&hsa_cam=6136427987079&hsa_grp=6145483434679&hsa_ad=6159713872679&hsa_src=fb&hsa_net=facebook&hsa_ver=3&fbclid=IwAR04x1514oS30caZtiK788V0fQTh4cNdAAna0l8Eu1idMTnmkc_G94ZMsGE)
+5. [CSS Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
+6. [CSS Media Queries](https://css-tricks.com/a-complete-guide-to-css-media-queries/) - подстройка интерфейса под разные размеры экрана
+7. [Sass](https://sass-lang.com/) - расширение CSS
 
 
 
