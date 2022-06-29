@@ -15,3 +15,8 @@ https://firefox-source-docs.mozilla.org/devtools-user/
 Debugger for Firefox, чтобы отлаживаться прямо из VSCode.
 
 ESLint анализирует код, находит ошибки.
+
+## Онлайн редакторы
+
+Есть множество онлайн редакторов, которые позволяют увидеть результат работы быстро,
+например, Repl.it https://replit.com/~
