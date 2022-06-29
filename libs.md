@@ -30,6 +30,13 @@ http://microjs.com/#
 ## Отрисовка графиков
 https://www.chartjs.org/
 
+## Топ-5 самых легковесных
+1. https://bulma.io/
+2. https://picocss.com/
+3. https://purecss.io/
+4. https://milligram.io/
+5. http://getskeleton.com/
+
 ## Responsive
 
 Легко встраивается в проект: 2 файлика responsive.min.css и responsive.min.js.
