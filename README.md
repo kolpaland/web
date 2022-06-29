@@ -27,7 +27,7 @@ JSON - отличный кандидат на эту роль.
 
 В этой статье подробно об HTML и CSS https://www.netburner.com/learn/web-development-for-embedded-engineers-html-and-css/
 
-Возьмем ее за референс:
+Возьмем ее в качестве референса, чтобы быстро найти нужный в конкретной задачи инструмент, например, для работы с изображениями или иконками:
 
 1. Изображения: 
 * https://undraw.co/illustrations - выбор небольшой, больше похоже на значки, но можно задать любой цвет;
@@ -48,9 +48,7 @@ JSON - отличный кандидат на эту роль.
 5. [CSS Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
 6. [CSS Media Queries](https://css-tricks.com/a-complete-guide-to-css-media-queries/) - подстройка интерфейса под разные размеры экрана
 7. [Sass](https://sass-lang.com/) - расширение CSS
-
-
-
+8. Шрифты, палитры, иконки (смотреть ссылки внутри [статьи](https://www.netburner.com/learn/web-development-for-embedded-engineers-html-and-css/))
 
 Но, если хочется визуально приятного и современного интерфейса, то
 стоит обратить внимание на некоторые библиотечки и фреймворки.
