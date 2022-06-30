@@ -33,3 +33,6 @@ https://firefox-source-docs.mozilla.org/devtools-user/).
 * npm start - запускает слушателей изменений в коде, чтобы видеть изменения сразу в браузере, на лету.
 
 Помним, что нужно запустить Live Server (http://127.0.0.1:5500/index.html)
+
+### webpack
+вот [здесь](https://bulma.io/documentation/customize/with-webpack/) инструкция по созданию странички с использованием Bulma
