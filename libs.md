@@ -4,6 +4,12 @@
 
 https://www.netburner.com/learn/enjoying-the-vue-frontend-design-for-embedded-systems/
 
+Темы оформления с использованием Vuejs https://vuejs.org/ecosystem/themes.html.
+
+Рассмотрим тему [Sakai Vue](https://www.primefaces.org/sakai-vue/#/).
+
+Нужно проверить, сколько будет занимать сайт после сборки со всеми зависимостями.
+
 ## Flutter
 
 Это не js и html, но при сборке он конвертируется в них, чтобы исполняться в браузере. То есть на выходе при развертываниии
