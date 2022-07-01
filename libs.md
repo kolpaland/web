@@ -89,3 +89,7 @@ https://www.chartjs.org/
 Много примеров, в том числе отрисовка графиков https://flutter.github.io/samples/charts.html
 
 Дизайн больше похож на мобильный, надо разобраться как кастомизировать.
+
+По стилям интересный пакет для подбора цветовых схем https://pub.dev/packages/flex_color_scheme
+
+С ним можно поиграть онлайн и скопировать код подобранной цветовой схемы https://rydmike.com/flexcolorscheme/themesplayground-v5/#/
