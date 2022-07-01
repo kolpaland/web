@@ -10,6 +10,10 @@ Debugger for Firefox, чтобы отлаживаться прямо из VSCode
 
 ESLint анализирует код, находит ошибки.
 
+## Flutter DevTools
+
+Нужно добавить [Dart и Flutter расширения](https://docs.flutter.dev/development/tools/devtools/vscode) для VSCode.
+
 ## Firefox DevTools 
 
 Встроенный в  браузер инструмент для отладки - [Firefox DevTools](
