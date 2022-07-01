@@ -50,7 +50,7 @@ https://www.chartjs.org/
 Последние три по сути одно и то же, можно выбрать любой. Ставка не на дизайн, просто шаблон. Скудный набор простых компонентов.
 К ним присоединяю следующие два: Responsive и Normalize.
 
-## Responsive
+ * Responsive
 
 Легко встраивается в проект: 2 файлика responsive.min.css и responsive.min.js.
 
@@ -59,7 +59,7 @@ https://www.chartjs.org/
 Есть примеры https://responsivebp.com/css/. 
 Это скорее не про дизайн, а про корректное отображение на любом браузере.
 
-## Normalize.css
+ * Normalize.css
 
 То же можно сказать и про  Normalize.css: 
 1) http://necolas.github.io/normalize.css/
@@ -67,4 +67,11 @@ https://www.chartjs.org/
 
 ## http://minicss.us/docs.htm
 
-## https://semantic-ui.com/
+## Semantic UI 
+https://semantic-ui.com/
+
+Полноценный фреймворк, с огромным набором возможностей по дизайну и API. Используется JS, jQuery и HTML. Кроме того можно интегрировать популярные движки для создания логики приложения (например, React, Angular).
+Использует Gulp для сборки, можно изменять состав элементов и тему. Таким образом, добавлять только то, что требуется.
+Есть отдельно минимальный набор с темой по умолчанию, дополнительные элементы по желанию добавляются, т.е. опциональны.
+Эффекты https://semantic-ui.com/modules/transition.html.
+
