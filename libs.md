@@ -66,6 +66,9 @@ https://www.chartjs.org/
 
 Статья об использовании Vuejs во встраиваемых системах: [Enjoying the Vue: Frontend Design for Embedded Systems](https://www.netburner.com/learn/enjoying-the-vue-frontend-design-for-embedded-systems/)
 
+Здесь можно скачать последнюю версию: https://cdnout.com/cdn/vue@3.2.33/
+Нам для работы понадобится минимальный набор функциональности, без всяких примочек с рендерингом на стороне сервера и инструментов для разработки и сборки больших сложных приложенией на Vuejs: [vue.global.min.js](https://cdnjs.cloudflare.com/ajax/libs/vue/3.2.33/vue.global.min.js).
+
 Темы оформления с использованием Vuejs https://vuejs.org/ecosystem/themes.html.
 
 Рассмотрим шаблон [Sakai Vue](https://www.primefaces.org/sakai-vue/#/). Репозиторий на [github](https://github.com/primefaces/sakai-vue). Одна из зависимотей это PrimeVue - огромное количество всевозможных ui компонрентов. 
