@@ -12,4 +12,23 @@
 ```
 <script src="./modules/vue.js"></script>
 ```
-Можно скачать стабильную версии с CDN: "https://cdn.jsdelivr.net/npm/vue@2.7.0/dist/vue.js"
+Можно скачать стабильную версии с CDN: "https://cdn.jsdelivr.net/npm/vue@2.7.0/dist/vue.js".
+  
+  2. Создание приложения.
+  ```
+  //index.html
+  <body>
+    <div id="app">{{ message }}</div>
+    <script src="./main.js"></script>
+</body>  
+  ```
+  
+  ```
+  //main.js
+  var app = new Vue({
+    el: '#app',
+    data: {
+      message: 'Hello Vue!'
+    }
+  })  
+  ```
