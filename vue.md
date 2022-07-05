@@ -69,4 +69,9 @@
 </body>
 </html>
   ```
-  
+  Есть возможность добавить только те компоненты, которые используются, например:
+  ```
+  <!-- Individual components -->
+    <script src="https://unpkg.com/buefy/dist/components/table"></script>
+    <script src="https://unpkg.com/buefy/dist/components/input"></script>
+  ```
