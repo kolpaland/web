@@ -34,8 +34,7 @@
   ```
   3. Установка стилей Buefy
   Инструкция по установке: https://buefy.org/documentation/start#standalone. 
-  Buefy использует набор иконок и шрифтов, если понадобится, их скачать отдельно: Material Design Icons CDN и Font Awesome 5 CDN.
-  
+    
   Для установки Buefy просто скачайте:
   
   * Скрипт [buefy.min.js](https://unpkg.com/buefy/dist/buefy.min.js)
@@ -69,9 +68,14 @@
 </body>
 </html>
   ```
-  Есть возможность добавить только те компоненты, которые используются, например:
+ Buefy использует набор иконок и шрифтов, их нужно скачать отдельно: Material Design Icons CDN и Font Awesome 5 CDN.
+ К примеру, [Material Design Icons](https://cdn.jsdelivr.net/npm/@mdi/font@5.8.55/). 
+ 
+ Понадобятся эти два файлика: 
+ * [fonts/materialdesignicons-webfont.woff2](https://cdn.jsdelivr.net/npm/@mdi/font@5.8.55/fonts/materialdesignicons-webfont.woff2)
+  * [css/materialdesignicons.min.css](https://cdn.jsdelivr.net/npm/@mdi/font@5.8.55/css/materialdesignicons.min.css)
+  
   ```
-  <!-- Individual components -->
-    <script src="https://unpkg.com/buefy/dist/components/table"></script>
-    <script src="https://unpkg.com/buefy/dist/components/input"></script>
+  <link rel="stylesheet" href="./styles/materialdesignicons.min.css">
   ```
+  Создать папку  fonts в корне проекта и там разместить *.woff2
