@@ -34,10 +34,15 @@
   ```
   3. Установка стилей Buefy
   Инструкция по установке: https://buefy.org/documentation/start#standalone. 
-  Просто скачайте:
+  Buefy использует набор иконок и шрифтов, если понадобится, их скачать отдельно: Material Design Icons CDN и Font Awesome 5 CDN.
+  
+  Для установки Buefy просто скачайте:
   
   * Скрипт [buefy.min.js](https://unpkg.com/buefy/dist/buefy.min.js)
   * Стили [buefy.min.css](https://unpkg.com/buefy/dist/buefy.min.css)
+  
+  Затем добавьте в разметку: 
+  
   ```
 <!DOCTYPE html>
 <html>
