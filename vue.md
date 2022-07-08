@@ -96,6 +96,8 @@ As a result SPA’s tend to improve the user experience by:
   
   You need to know about the Vue Router to create rapid prototypes or ımpressive, full-blown Vue.js SPA’s.
   
+  [Видеокурс](https://vueschool.io/lessons/vue-router-course-and-resource-overview) по Vue Router
+  
   ## Pinia
   
   Pinia - это  библиотечка для хранения состояний компонентов, это позволяет обмениваться состояниями между компонентами и страницами (дочерними, родительскими, вне зависимости от родства).
