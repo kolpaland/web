@@ -94,7 +94,7 @@ As a result SPA’s tend to improve the user experience by:
   * Providing faster load times between page navigations
   * Behaving more like traditional desktop applications
   
-  You need to know about the Vue Router to create rapid prototypes or ımpressive, full-blown Vue.js SPA’s.
+  You need to know about the [Vue Router](https://router.vuejs.org/) to create rapid prototypes or ımpressive, full-blown Vue.js SPA’s.
   
   [Видеокурс](https://vueschool.io/lessons/vue-router-course-and-resource-overview) по Vue Router
   
